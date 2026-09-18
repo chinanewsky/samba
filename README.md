@@ -1,5 +1,7 @@
 # samba
-docker samba 
+docker samba 4.24.7 (20260918)
+
+#### smb账号/密码：root/Aa.123456
 
 ##### host网络模式
 ```
